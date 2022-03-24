@@ -11,3 +11,7 @@ https://github.com/valinet/ExplorerPatcher
 ## Search engine redirect
 
 https://github.com/rcmaehl/MSEdgeRedirect
+
+## EarTrumpet
+
+https://github.com/File-New-Project/EarTrumpet
