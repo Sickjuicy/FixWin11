@@ -12,6 +12,11 @@ https://github.com/valinet/ExplorerPatcher
 
 https://github.com/rcmaehl/MSEdgeRedirect
 
+## Disable Rounded Corners
+
+https://github.com/valinet/Win11DisableRoundedCorners
+
 ## EarTrumpet
 
 https://github.com/File-New-Project/EarTrumpet
+
