@@ -3,7 +3,7 @@ Just some links
 
 
 
-Bring Back the Old Winodws 10 Startmenu
+Bring back the old Winodws 10 Startmenu and some other stuff
 ```
 https://github.com/valinet/ExplorerPatcher
 ```
