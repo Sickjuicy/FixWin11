@@ -20,3 +20,6 @@ https://github.com/valinet/Win11DisableRoundedCorners
 
 https://github.com/File-New-Project/EarTrumpet
 
+## NetSpeedMonitor alternative for Windows 11
+
+https://github.com/zhongyang219/TrafficMonitor
