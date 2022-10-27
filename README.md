@@ -23,3 +23,7 @@ https://github.com/File-New-Project/EarTrumpet
 ## NetSpeedMonitor alternative for Windows 11
 
 https://github.com/zhongyang219/TrafficMonitor
+
+## Theme advanced customization (Win32UI)
+
+https://github.com/Abdelrhman-AK/WinPaletter
