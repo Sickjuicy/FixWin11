@@ -26,4 +26,4 @@ https://github.com/zhongyang219/TrafficMonitor
 
 ## Theme advanced customization (Win32UI)
 
-https://github.com/Abdelrhman-AK/WinPaletter
+https://github.com/MishaTY/Rectify11Installer/releases/tag/v-2.9.8.6
