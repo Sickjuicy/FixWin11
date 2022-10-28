@@ -1,6 +1,5 @@
 # FixWin11
-Just some links 
-
+Make Windows 11 Greate 
 
 
 ## Bring back the old Winodws 10 Startmenu(fullscreen) and some other stuff
@@ -24,6 +23,6 @@ https://github.com/File-New-Project/EarTrumpet
 
 https://github.com/zhongyang219/TrafficMonitor
 
-## Theme advanced customization (Win32UI)
+## Theme advanced customization (Win32UI) MS apps
 
 https://github.com/MishaTY/Rectify11Installer/releases/tag/v-2.9.8.6
