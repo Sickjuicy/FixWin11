@@ -25,4 +25,4 @@ https://github.com/zhongyang219/TrafficMonitor
 
 ## Theme advanced customization (Win32UI) MS apps
 
-https://github.com/MishaTY/Rectify11Installer/releases/tag/v-2.9.8.6
+https://github.com/MishaTY/Rectify11Installer/releases/
