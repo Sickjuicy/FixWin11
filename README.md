@@ -26,3 +26,6 @@ https://github.com/zhongyang219/TrafficMonitor
 ## Theme advanced customization (Win32UI) MS apps
 
 https://github.com/MishaTY/Rectify11Installer/releases/
+
+## GPU BOOST 1% Lows | Set MSI and to Max
+https://github.com/Sathango/Msi-Utility-v3
